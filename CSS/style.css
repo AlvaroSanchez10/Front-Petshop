@@ -1,0 +1,78 @@
+.comederos {
+    background-color: orange;
+    color: white;
+    text-decoration: none;
+  }
+  
+  footer {
+    background-color: orange;
+    text-align: center;
+    color: white;
+  }
+  
+  .formularios {
+    background-color: #3c2313;
+  }
+  
+  .formularios img.imagenes-formulario {
+    width: 66px;
+    height: 66px;
+    color: white;
+  }
+  
+  .formularios p {
+    color: white;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  .formularios span {
+    color: #8a8787;
+    font-size: 12px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  header {
+    background-color: black;
+    color: white;
+  }
+  
+  .imagen-hueso {
+    background-image: url(../img/bowl-and-pet-daities-on-green-background\ 1.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 409px;
+    text-align: center;
+  }
+  
+  .imagen-hueso p {
+    font-weight: bold;
+  }
+  
+  .logo-categorias {
+    background-color: orange;
+    color: white;
+  }
+  
+  .logo-categorias ul {
+    color: white;
+  }
+  
+  .precios {
+    color: #f0a83e;
+  }
+  
+  .productos {
+    background-color: #fbfaf6;
+  }
+  
+  .prodDestacados {
+    font-family: "Roboto", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+  }
+  
+  .titulo {
+    text-align: center;
+    font-family: "Roboto", sans-serif;
+  }
